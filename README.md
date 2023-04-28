@@ -38,6 +38,6 @@ Se diseñará y elaborará una página web colaborativa para crear reportes de a
 
 
 ## | 🤗 Colaboradores 🤗 |
-- [Karen A. Gomez Lobo](https://michael-c.online)
-- [Michael S. Cardenas Quintero](https://michael-c.online)
-- [Carlos A. Gonzalez Giraldo](https://michael-c.online)
+- [Karen A. Gomez Lobo](https://github.com/kasperweb)
+- [Michael S. Cardenas Quintero](https://github.com/sniperwolf2313)
+- [Carlos A. Gonzalez Giraldo](https://github.com/carlosgon1223)
