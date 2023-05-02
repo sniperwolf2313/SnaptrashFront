@@ -1,9 +1,15 @@
 import React from 'react'
+import { useAuth } from '../../context/authContext';
 
 function Home() {
-  return (
-    <div>Home</div>
-  )
+
+ const {loading} = useAuth()
+
+ if(loading) return <h1>Cargando...</h1>
+
+ return (
+   <div>Home</div>
+ )
 }
 
 export default Home
